@@ -1,0 +1,1 @@
+export default ["Action", "Drames", "Horreur", "Comédies", "Histoire", "Thriller", "Romance", "SF et Fantastique"];
